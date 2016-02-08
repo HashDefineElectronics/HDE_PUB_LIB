@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FOD817C3SD
+D FOD814 Series, FOD817 Series  4-Pin High Operating Temperature  Phototransistor Optocouplers
+$ENDCMP
+#
+$CMP H11L1S-M
+D Optocoupler, Schimitt trigger
+$ENDCMP
+#
+$CMP NC7WZ07P6
+D Non inverting buffer
+$ENDCMP
+#
+$CMP TPS60130PWP
+D CHARGE PUMP, BOOST, 5V, HTSSOP-20
+$ENDCMP
+#
+$CMP TPS61201DRCT
+D SYNC BOOTS CONVERTER, 0.3A
+$ENDCMP
+#
+#End Doc Library

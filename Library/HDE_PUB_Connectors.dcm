@@ -1,0 +1,55 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2-1734839-0
+D FFC  FPC Board Connector, Surface Mount, Receptacle, 20, Top, 0.5 mm
+$ENDCMP
+#
+$CMP 47590-0001
+D Micro USB, Top Mount
+$ENDCMP
+#
+$CMP 53261-0371
+D 3way, Wire-To-Board Connector, Right Angle, PicoBlade 53261 Series, Surface Mount, Header, 1.25 mm
+$ENDCMP
+#
+$CMP 70246-1404
+D 14way dual row 2.54mm socket
+$ENDCMP
+#
+$CMP 761681-3
+D 10 Way, 2 Row, header, 2.54mm
+$ENDCMP
+#
+$CMP KRM02
+D 2way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP KRM03
+D 4way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP KRM04
+D 6way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP KRM06
+D 6way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP KRM07
+D 7way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP KRM08
+D 8way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP M20-9990246
+D 2.54 Pitch, Pin Header
+$ENDCMP
+#
+$CMP SSW-110-01-T-D
+D 20 Way, 2 Row, header, 2.54mm
+$ENDCMP
+#
+#End Doc Library

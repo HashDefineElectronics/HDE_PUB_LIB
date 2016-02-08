@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0154.500DRT
+D 500mA, SMD, 125v, -55C to 125C
+$ENDCMP
+#
+#End Doc Library

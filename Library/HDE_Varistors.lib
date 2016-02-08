@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# V33MLA1206NH
+#
+DEF V33MLA1206NH V 0 40 N N 1 F N
+F0 "V" 50 50 60 H V C CNN
+F1 "V33MLA1206NH" 225 -350 60 H V C CNN
+F2 "Miscellaneous:1206_LittelFuse_Varistor" 0 1000 60 H I C CNN
+F3 "" -280 -475 60 H I C CNN
+F4 "33V, 1206, 180Apk, Clamp 75V" 0 400 60 H I C CNN "Description"
+F5 "LITTELFUSE" 0 500 60 H I C CNN "Manufacture"
+F6 "Farnell" 0 850 60 H I C CNN "Supplier"
+F7 "1816942" 0 750 60 H I C CNN "Supplier No."
+F8 "33V 180Apk 75V" 250 -250 60 H V C CNN "C_Value"
+DRAW
+S 0 -25 250 -125 0 1 0 f
+P 4 0 1 0  250 25  175 25  75 -175  0 -175 N
+X Vs 1 -200 -75 200 R 50 50 1 1 P
+X Output 2 450 -75 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

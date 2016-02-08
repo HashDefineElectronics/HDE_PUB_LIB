@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BK1608HS600-T
+D  60R impedance, 25%, 100MHz, 0.1R dc, 800mA, EMI Filter Beads
+$ENDCMP
+#
+$CMP MCSDRH73B-680MHF
+D 68UH, 20%, 1.04A, 0.397R
+$ENDCMP
+#
+#End Doc Library

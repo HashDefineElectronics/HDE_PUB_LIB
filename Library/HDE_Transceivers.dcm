@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISO1050DUBR
+D ISO1050DUBR, Isolated, 5-V, CAN Transceivers, 8-SOP, -55 to 105
+K ISO1050DUBR
+$ENDCMP
+#
+$CMP SN65HVD230DR
+D CAN Transceiver, 3.3v, SOIC-8, Low Current Standby Mode 370uA, Compatible With ISO 11898-2 Standard
+$ENDCMP
+#
+#End Doc Library
