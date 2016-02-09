@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1-1437565-7
+D SPST, 0.05A, 24V, TACTILE SWITCH
+$ENDCMP
+#
+$CMP G6EU-134P-US_5DC
+D G6EU-134P-US 5DC Signal Relay, G6E Series, Latching Single Coil, SPDT, Through Hole, 2 A, 5 VDC
+$ENDCMP
+#
+#End Doc Library

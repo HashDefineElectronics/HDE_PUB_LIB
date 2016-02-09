@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ATTINY84A-SSU
+D  8 Bit Microcontroller, AVR Tiny, 20 MHz, 8 KB, 512 Byte, 14, SOIC
+$ENDCMP
+#
 $CMP FOD817C3SD
 D FOD814 Series, FOD817 Series  4-Pin High Operating Temperature  Phototransistor Optocouplers
 $ENDCMP
