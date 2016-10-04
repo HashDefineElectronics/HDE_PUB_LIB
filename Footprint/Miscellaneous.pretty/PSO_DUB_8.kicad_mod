@@ -27,7 +27,7 @@
     (solder_mask_margin 0.14))
   (pad 4 smd rect (at 7.62 9.6) (size 0.8 3) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.14))
-  (model ${HDE_PUB_LIB_3DMOD}/sop8.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/sop8.wrl
     (at (xyz -0.116 0 -0.14))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 0))
