@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF ISO1050DUBR U 0 40 Y Y 1 F N
 F0 "U" 50 50 60 H V C CNN
 F1 "ISO1050DUBR" 350 -450 60 H V C CNN
-F2 "Miscellaneous:PSO_DUB_8" 1800 -250 60 H I C CNN
+F2 "HDEP_Miscellaneous:PSO_DUB_8" 1800 -250 60 H I C CNN
 F3 "" 50 50 60 H V C CNN
 F4 "Texas Instruments" 1800 -350 60 H I C CNN "Manufacture"
 F5 "Farnell" 1550 -450 60 H I C CNN "Supplier"
@@ -29,7 +29,7 @@ ENDDEF
 DEF SN65HVD230DR U 0 40 Y Y 1 F N
 F0 "U" 75 100 60 H V C CNN
 F1 "SN65HVD230DR" 350 -425 60 H V C CNN
-F2 "IC:SOIC-08" 0 1000 60 H I C CNN
+F2 "HDEP_IC:SOIC-08" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "CAN Transceiver, 3.3v, SOIC-8, Low Current Standby Mode 370uA, Compatible With ISO 11898-2 Standard" 0 400 60 H I C CNN "Description"
 F5 "Texas Instruments" 0 500 60 H I C CNN "Manufacture"

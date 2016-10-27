@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF 2-1734839-0 J 0 40 Y Y 1 F N
 F0 "J" 450 -50 60 V V C CNN
 F1 "2-1734839-0" 500 -1750 60 V V C CNN
-F2 "Connectors:2-1734839-0" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:2-1734839-0" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "FFC  FPC Board Connector, Surface Mount, Receptacle, 20, Top, 0.5 mm" 0 400 60 H I C CNN "Description"
 F5 "Tyco Electronics" 0 500 60 H I C CNN "Manufacture"
@@ -44,7 +44,7 @@ ENDDEF
 DEF 47590-0001 J 0 40 Y Y 1 F N
 F0 "J" 25 50 60 H V C CNN
 F1 "47590-0001" 275 -575 60 H V C CNN
-F2 "Connectors:47590-0001" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:47590-0001" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "Micro USB, Top Mount" 0 400 60 H I C CNN "Description"
 F5 "Molex" 0 500 60 H I C CNN "Manufacture"
@@ -66,7 +66,7 @@ ENDDEF
 DEF 53261-0371 J 0 40 Y Y 1 F N
 F0 "J" 50 50 60 H V C CNN
 F1 "53261-0371" 150 -350 60 H V C CNN
-F2 "Connectors:53261-0371" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:53261-0371" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "3way, Wire-To-Board Connector, Right Angle, PicoBlade 53261 Series, Surface Mount, Header, 1.25 mm" 0 400 60 H I C CNN "Description"
 F5 "Molex" 0 500 60 H I C CNN "Manufacture"
@@ -85,7 +85,7 @@ ENDDEF
 DEF 70246-1404 J 0 40 Y N 1 F N
 F0 "J" 25 50 60 H V C CNN
 F1 "70246-1404" 175 -675 60 H V C CNN
-F2 "Connectors:IDC-2.54mm-14way" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:IDC-2.54mm-14way" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "14way dual row 2.54mm socket" 0 400 60 H I C CNN "Description"
 F5 "SAMTEC" 0 500 60 H I C CNN "Manufacture"
@@ -115,7 +115,7 @@ ENDDEF
 DEF 761681-3 J 0 40 Y Y 1 F N
 F0 "J" 25 50 60 H V C CNN
 F1 "761681-3" 150 -525 60 H V C CNN
-F2 "Connectors:1761681-3" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:1761681-3" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "10 Way, 2 Row, header, 2.54mm" 0 400 60 H I C CNN "Description"
 F5 "TE CONNECTIVITY / AMP" 0 500 60 H I C CNN "Manufacture"
@@ -141,7 +141,7 @@ ENDDEF
 DEF KRM02 J 0 40 Y Y 1 F N
 F0 "J" 50 50 60 H V C CNN
 F1 "KRM02" 150 -300 60 H V C CNN
-F2 "Connectors:KRM02" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:KRM02" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "2way, 5mm Pitch, Terminal Block" 0 400 60 H I C CNN "Description"
 F5 "LUMBERG" 0 500 60 H I C CNN "Manufacture"
@@ -159,7 +159,7 @@ ENDDEF
 DEF KRM03 J 0 40 Y Y 1 F N
 F0 "J" 50 50 60 H V C CNN
 F1 "KRM03" 150 -350 60 H V C CNN
-F2 "Connectors:KRM03" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:KRM03" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "3way, 5mm Pitch, Terminal Block" 0 400 60 H I C CNN "Description"
 F5 "LUMBERG" 0 500 60 H I C CNN "Manufacture"
@@ -178,7 +178,7 @@ ENDDEF
 DEF KRM04 J 0 40 Y Y 1 F N
 F0 "J" 75 100 60 H V C CNN
 F1 "KRM04" 150 -450 60 H V C CNN
-F2 "Connectors:KRM04" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:KRM04" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "4way, 5mm Pitch, Terminal Block" 0 400 60 H I C CNN "Description"
 F5 "LUMBERG" 0 500 60 H I C CNN "Manufacture"
@@ -198,7 +198,7 @@ ENDDEF
 DEF KRM06 J 0 40 Y Y 1 F N
 F0 "J" 75 100 60 H V C CNN
 F1 "KRM06" 125 -575 60 H V C CNN
-F2 "Connectors:KRM06" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:KRM06" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "6way, 5mm Pitch, Terminal Block" 0 400 60 H I C CNN "Description"
 F5 "LUMBERG" 0 500 60 H I C CNN "Manufacture"
@@ -220,7 +220,7 @@ ENDDEF
 DEF KRM07 J 0 40 Y Y 1 F N
 F0 "J" 75 100 60 H V C CNN
 F1 "KRM07" 150 -675 60 H V C CNN
-F2 "Connectors:KRM07" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:KRM07" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "7way, 5mm Pitch, Terminal Block" 0 400 60 H I C CNN "Description"
 F5 "LUMBERG" 0 500 60 H I C CNN "Manufacture"
@@ -243,7 +243,7 @@ ENDDEF
 DEF KRM08 J 0 40 Y Y 1 F N
 F0 "J" 75 100 60 H V C CNN
 F1 "KRM08" 100 -725 60 H V C CNN
-F2 "Connectors:KRM08" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:KRM08" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "8way, 5mm Pitch, Terminal Block" 0 400 60 H I C CNN "Description"
 F5 "LUMBERG" 0 500 60 H I C CNN "Manufacture"
@@ -267,7 +267,7 @@ ENDDEF
 DEF M20-9990246 J 0 40 Y Y 1 F N
 F0 "J" 75 100 60 H V C CNN
 F1 "M20-9990246" 150 -300 60 H V C CNN
-F2 "Connectors:M20-9990246" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:M20-9990246" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "2.54 Pitch, Pin Header" 0 400 60 H I C CNN "Description"
 F5 "HARWIN" 0 500 60 H I C CNN "Manufacture"
@@ -285,7 +285,7 @@ ENDDEF
 DEF SSW-110-01-T-D J 0 40 Y N 1 F N
 F0 "J" 25 50 60 H V C CNN
 F1 "SSW-110-01-T-D" 175 -900 60 H V C CNN
-F2 "Connectors:SSW-110-01-T-D" 0 1000 60 H I C CNN
+F2 "HDEP_Connectors:SSW-110-01-T-D" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "20way dual row 2.54mm socket" 0 400 60 H I C CNN "Description"
 F5 "SAMTEC" 0 500 60 H I C CNN "Manufacture"

@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF V33MLA1206NH V 0 40 N N 1 F N
 F0 "V" 50 50 60 H V C CNN
 F1 "V33MLA1206NH" 225 -350 60 H V C CNN
-F2 "Miscellaneous:1206_LittelFuse_Varistor" 0 1000 60 H I C CNN
+F2 "HDEP_Miscellaneous:1206_LittelFuse_Varistor" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "33V, 1206, 180Apk, Clamp 75V" 0 400 60 H I C CNN "Description"
 F5 "LITTELFUSE" 0 500 60 H I C CNN "Manufacture"
