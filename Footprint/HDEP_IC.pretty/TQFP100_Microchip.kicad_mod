@@ -114,7 +114,7 @@
   (pad 98 smd oval (at -5 -7.7) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 99 smd oval (at -5.5 -7.7) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 100 smd oval (at -6 -7.7) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/TQFP-100.wrl
+  (model ${KIPRJMOD}/HDE_PUB_LIB/3DModel/TQFP-100.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.395 0.395 0.395))
     (rotate (xyz 0 0 90))

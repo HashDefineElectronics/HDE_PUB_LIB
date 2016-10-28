@@ -54,7 +54,7 @@
     (solder_mask_margin 0.1))
   (pad 2 smd rect (at 6.25 0) (size 6.5 2.5) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/aluminum_eletrolyticcap_smd_100v_16mm_.wrl
+  (model ${KIPRJMOD}/HDE_PUB_LIB/3DModel/aluminum_eletrolyticcap_smd_100v_16mm_.wrl
     (at (xyz 0.34 -0.335 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 0))
