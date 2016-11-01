@@ -5,22 +5,21 @@ Hash Define Electronics Public Kicad Library
 #### Method 1) Use the KiCad Template
 Thanks to KiCad support for template projects, we can simple create a new project using the a premade template.
 
-1. First clone the HDE_PUB_LIB anywhere in your system.
+1. First clone the HDE_PUB_LIB where you plan to keep your KiCad project folder.
 `git@github.com:HashDefineElectronics/HDE_PUB_LIB.git`
 2. In KiCad create a new template project.
-`File -> New project -> New project from tempalte`
-3. Select the location where you want to create your project.
+`File -> New project -> New project from template`
+3. Create the KiCad project folder next to HDE_PUB_LIB and then select the new folder.
 4. Then on the project template selector window, click on the `User templates`.
 5. Click on the browse button and navigate to the `HDE_PUB_LIB/Template` and click OK.
 6. Select the project and Click OK.
-7. Now move HDE_PUB_LIB folder into your new KiCad Project.
+7. You are now ready.
 
-The last step is important. The project is expecting the library to be located in the root directory of the project.
+Note: Its important that HDE_PUB_LIB is place next to and **not** in your KiCad project.
 
-
-#### Method 2) Manually adding library to KiCad Project
+#### Method 2) Manually adding library to an existing KiCad Project
 the following instructions will go through the process of manually adding the HDE_PUB_LIB to an existing project.
-- Clone `git@github.com:HashDefineElectronics/HDE_PUB_LIB.git` into the root directory of your project.
+- Clone `git@github.com:HashDefineElectronics/HDE_PUB_LIB.git` in the same folder that has your KiCad project folder. (Note: not inside the KiCad project).
 - Add the *.lib files found in the Library folder to your KiCad eeschema libraries setting.
 - You will need to use `${KIPRJMOD}/HDE_PUB_LIB/Footprint/` when adding the individual footprint to your project library. (Note: `${KIPRJMOD}` is internal set by KiCad to the current project root directory)
 - Or use the *fp-lib-table* example bellow.
@@ -45,3 +44,7 @@ This is what the fp_lib_table would look like if HDE_PUB_LIB is the only footpri
   (lib (name HDEP_Via)(type KiCad)(uri ${KIPRJMOD}/HDE_PUB_LIB/Footprint/HDEP_Via.pretty)(options "")(descr ""))
 )
 ```
+
+### Expected Folder structure Example
+- Project_Folder->HDE_PUB_LIB
+- Project_Folder->KICAD_PROJECT->KiCad_Files
