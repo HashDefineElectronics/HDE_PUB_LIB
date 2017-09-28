@@ -13,7 +13,7 @@ F5 "Tyco Electronics" 0 500 60 H I C CNN "Manufacture"
 F6 "Farnell" 0 850 60 H I C CNN "Supplier"
 F7 "1816389" 0 750 60 H I C CNN "Supplier No."
 DRAW
-T 900 250 -1000 60 0 0 0 0.5mm~Pitch,~20way~SMD,~Top~pins  Normal 0 C C
+T 900 250 -1000 60 0 0 0 0.5mm~Pitch,~20way~SMD,~Top~pins Normal 0 C C
 S 0 0 400 -2200 0 1 0 N
 X 1 1 -200 -100 200 R 50 50 1 1 P
 X 2 2 -200 -200 200 R 50 50 1 1 P
@@ -266,7 +266,7 @@ ENDDEF
 #
 DEF M20-9990246 J 0 40 Y Y 1 F N
 F0 "J" 75 100 60 H V C CNN
-F1 "M20-9990246" 150 -300 60 H V C CNN
+F1 "M20-9990246" 100 -250 60 H V C CNN
 F2 "HDEP_Connectors:M20-9990246" 0 1000 60 H I C CNN
 F3 "" -280 -475 60 H I C CNN
 F4 "2.54 Pitch, Pin Header" 0 400 60 H I C CNN "Description"
@@ -274,8 +274,8 @@ F5 "HARWIN" 0 500 60 H I C CNN "Manufacture"
 F6 "Farnell" 0 850 60 H I C CNN "Supplier"
 F7 "1022247" 0 750 60 H I C CNN "Supplier No."
 DRAW
-S 0 0 200 -250 0 0 0 N
-X 1 1 -200 -75 200 R 50 50 1 1 P
+S 0 0 200 -200 0 0 0 N
+X 1 1 -200 -50 200 R 50 50 1 1 P
 X 2 2 -200 -150 200 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
