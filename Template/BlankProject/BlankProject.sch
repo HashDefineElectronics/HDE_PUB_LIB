@@ -8,6 +8,7 @@ LIBS:HDEP_IC
 LIBS:HDEP_Inductors
 LIBS:HDEP_Mechanical
 LIBS:HDEP_Modules
+LIBS:HDEP_Mosfet
 LIBS:HDEP_Power
 LIBS:HDEP_Regulators
 LIBS:HDEP_Resistors
