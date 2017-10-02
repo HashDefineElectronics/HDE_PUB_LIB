@@ -4,7 +4,7 @@
   (lib (name HDEP_Crystals)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_Crystals.pretty)(options "")(descr ""))
   (lib (name HDEP_Diodes)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_Diodes.pretty)(options "")(descr ""))
   (lib (name HDEP_Fuses)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_Fuses.pretty)(options "")(descr ""))
-  (lib (name HDEP_HDE)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_HDE.pretty)(options "")(descr ""))
+  (lib (name HDEP)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP.pretty)(options "")(descr ""))
   (lib (name HDEP_IC)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_IC.pretty)(options "")(descr ""))
   (lib (name HDEP_Inductor)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_Inductor.pretty)(options "")(descr ""))
   (lib (name HDEP_Miscellaneous)(type KiCad)(uri ${KIPRJMOD}/../HDE_PUB_LIB/Footprint/HDEP_Miscellaneous.pretty)(options "")(descr ""))

@@ -1,3 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NDS332P
+D P Channel, 1 A, -20 V, 410 mohm, -4.5 V, -600 mV
+$ENDCMP
+#
+$CMP PMF370XN,115
+D MOSFET Transistor, N Channel, 870 mA, 30 V, 0.37 ohm, 4.5 V, 1 V
+$ENDCMP
+#
 #End Doc Library
