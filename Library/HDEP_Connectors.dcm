@@ -48,6 +48,14 @@ $CMP M20-9990246
 D 2.54 Pitch, Pin Header
 $ENDCMP
 #
+$CMP S2B-PH-SM4-TB(LF)(SN)
+D 6way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
+$CMP S4B-PH-SM4-TB(LF)(SN)
+D 6way, 5mm Pitch, Terminal Block
+$ENDCMP
+#
 $CMP SSW-110-01-T-D
 D 20 Way, 2 Row, header, 2.54mm
 $ENDCMP
