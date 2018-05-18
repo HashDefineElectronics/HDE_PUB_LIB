@@ -8,6 +8,10 @@ $CMP KPTR-3216SGC
 D Green, 1206, SMD LED
 $ENDCMP
 #
+$CMP MBRM110LT3G
+D Schottky Rectifier Diode, Single, 30 V, 1 A, DO-216AA, 2, 365 mV
+$ENDCMP
+#
 $CMP PMEG1201AESF
 D Rectifier Diode, Single, 30 V, 1 A, DO-214AA, 2, 300 mV
 $ENDCMP
@@ -16,7 +20,7 @@ $CMP PMV32UP
 D MOSFET Transistor, P Channel, -4 A, -20 V, 0.032 ohm, -4.5 V, -700 mV
 $ENDCMP
 #
-$CMP S1D-E3/5AT
+$CMP S1D-E3_5AT
 D 27PF, 50V, 0402, MLCC, C0G/NP0, 5%
 $ENDCMP
 #
