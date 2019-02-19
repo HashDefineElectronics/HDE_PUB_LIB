@@ -28,7 +28,7 @@
     (solder_mask_margin 0.05))
   (pad 4 smd rect (at 0.975 2.8) (size 0.3 1.55) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.05))
-  (model ${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/Kicad_Official/TSSOP-8_4.4x3mm_Pitch0.65mm.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/TSSOP-8_4.4x3mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

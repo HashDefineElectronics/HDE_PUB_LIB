@@ -16,7 +16,7 @@
   (pad 3 thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 7.62 0) (size 1.6 1.6) (drill 0.89) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/Vendor/c-5-103634-6-y-3d.stp
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Vendor/c-5-103634-6-y-3d.stp
     (offset (xyz 0 -12.6 3))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -11,7 +11,7 @@
     (solder_mask_margin 0.102))
   (pad 2 smd rect (at 1.6 0) (size 1.35 2.8) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.102))
-  (model ${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/cap_1210.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/cap_1210.wrl
     (at (xyz -0.06 -0.048819 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 180))

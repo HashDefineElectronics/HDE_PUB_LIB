@@ -15,7 +15,7 @@
   (pad 2 smd rect (at 0 -1.425) (size 2 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 1.425) (size 0.8 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0 0.325) (size 0.8 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/Kicad_Official/SOT-89-3.step
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/SOT-89-3.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

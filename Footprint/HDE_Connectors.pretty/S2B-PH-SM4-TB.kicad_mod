@@ -21,7 +21,7 @@
   (pad 3 smd rect (at 2 0) (size 1 3.5) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at -2.35 -5.75) (size 1.5 3.4) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 4.35 -5.75) (size 1.5 3.4) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/vendor/S2B-PH-SM4-TB.STEP
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Vendor/S2B-PH-SM4-TB.STEP
     (at (xyz 0.3503937007874016 -0.3740157480314961 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))

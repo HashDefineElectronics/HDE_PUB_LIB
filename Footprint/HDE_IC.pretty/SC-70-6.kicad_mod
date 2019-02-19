@@ -26,7 +26,7 @@
     (solder_mask_margin 0.05))
   (pad 3 smd rect (at 0.65 1.1) (size 0.35 0.85) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.05))
-  (model ${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/Kicad_Official/SC-70-6.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/SC-70-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

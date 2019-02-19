@@ -20,7 +20,7 @@
   (fp_line (start 0.432 -1.016) (end -0.584 0) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.6 0) (size 1.35 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.6 0) (size 1.35 1.9) (layers F.Cu F.Paste F.Mask))
-  (model "${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/led smd green, 1206.wrl"
+  (model "${KIPRJMOD}/../HDE_PUB_LIB/3DModel/led smd green, 1206.wrl"
     (at (xyz -0.06 0.03 -0.0025))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 180))

@@ -53,7 +53,7 @@
     (solder_mask_margin 0.1))
   (pad 6 thru_hole oval (at -0.18 4.175) (size 1.9 1.4) (drill oval 1.3 0.6) (layers *.Cu *.Mask F.SilkS)
     (solder_mask_margin 0.1))
-  (model "${KIPRJMOD}/../CAD_Lib_Kicad/3DModel/47590-0001 molex micro usb.wrl"
+  (model "${KIPRJMOD}/../HDE_PUB_LIB/3DModel/47590-0001 molex micro usb.wrl"
     (at (xyz 0.05 0.05 0.0125))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 -90))
