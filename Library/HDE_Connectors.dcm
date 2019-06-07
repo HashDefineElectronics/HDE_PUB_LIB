@@ -64,6 +64,10 @@ $CMP M20-9990246
 D 2.54 Pitch, Pin Header
 $ENDCMP
 #
+$CMP MC34739
+D 20way 1row 2.54mm socket
+$ENDCMP
+#
 $CMP SSW-110-01-T-D
 D 20 Way, 2 Row, header, 2.54mm
 $ENDCMP
