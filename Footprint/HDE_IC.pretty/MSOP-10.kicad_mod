@@ -1,4 +1,4 @@
-(module MSOP-10 (layer F.Cu) (tedit 566CB5BA)
+(module MSOP-10 (layer F.Cu) (tedit 5CFA764B)
   (descr "10 lead, plastic micro small outline package (UN) MSOP")
   (fp_text reference U11 (at -1.85 -2.08 90) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))
@@ -35,8 +35,8 @@
     (solder_mask_margin 0.05))
   (pad 6 smd rect (at 1 -2.45) (size 0.33 1.2) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.05))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/MSOP-10_3x3mm_Pitch0.5mm.wrl
-    (at (xyz 0 0 -0.002))
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/MSOP-10_3x3mm_P0.5mm.step
+    (offset (xyz 0 0 -0.05079999923706055))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )

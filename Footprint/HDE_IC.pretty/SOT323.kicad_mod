@@ -1,4 +1,4 @@
-(module SOT323 locked (layer F.Cu) (tedit 59D2586D)
+(module SOT323 locked (layer F.Cu) (tedit 5CFA77AB)
   (tags SOT-323)
   (attr smd)
   (fp_text reference T4 (at -0.014 0 90) (layer F.SilkS)

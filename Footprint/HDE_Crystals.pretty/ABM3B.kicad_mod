@@ -1,4 +1,4 @@
-(module ABM3B (layer F.Cu) (tedit 56671F75)
+(module ABM3B (layer F.Cu) (tedit 5CFA749E)
   (descr ABM3B)
   (fp_text reference REF** (at 0.1905 2.794) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))

@@ -8,6 +8,14 @@ $CMP BSS87H6327FTSA1
 D MOSFET Transistor, N Channel, 260 mA, 240 V, 3.9 ohm, 10 V, 1.2 V
 $ENDCMP
 #
+$CMP NDS332P
+D MOSFET Transistor, P Channel, -1A, -20V, 0.3ohm,
+$ENDCMP
+#
+$CMP PMF370XN,115
+D MOSFET Transistor, N Channel, 870 mA, 30 V, 0.37 ohm, 4.5 V, 1 V
+$ENDCMP
+#
 $CMP SMMBT3904LT1G
 D Bipolar (BJT) Single Transistor, NPN, 40 V, 300 MHz, 225 mW, 200 mA, 300 hFE
 $ENDCMP

@@ -27,9 +27,9 @@
     (solder_mask_margin 0.05))
   (pad 2 smd rect (at 0.825 0) (size 0.8 0.8) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.05))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/LED_0_8mmx1_6mm.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/LED_0_8mmx1_6mm.step
     (at (xyz 0 0 0.004))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )

@@ -1,4 +1,4 @@
-(module M20-9990246 (layer F.Cu) (tedit 565F78DD)
+(module M20-9990246 (layer F.Cu) (tedit 5CFA73EE)
   (descr "2way, 1row, Through Hole, 2.54mm")
   (tags M20-9990246)
   (fp_text reference J5 (at 2.97 1) (layer F.SilkS)
@@ -13,9 +13,9 @@
   (fp_line (start -2.54 -1.27) (end 2.54 -1.27) (layer F.SilkS) (width 0.15))
   (pad 1 thru_hole rect (at -1.27 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/m20-9990246_asm.wrl
-    (at (xyz -0.15 0 0.1))
-    (scale (xyz 0.393701 0.393701 0.393701))
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/m20-9990246_asm.stp
+    (offset (xyz -3.809999942779541 0 2.539999961853027))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )

@@ -1,4 +1,4 @@
-(module TQFN-EP-28 (layer F.Cu) (tedit 56C6D249)
+(module TQFN-EP-28 (layer F.Cu) (tedit 5CFA77CD)
   (descr "TQFN-EP-28 Maxim")
   (fp_text reference U15 (at -2.3 2.5) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))
@@ -83,7 +83,7 @@
   (pad 29 smd rect (at -0.675 0.675 90) (size 1 1) (layers F.Cu F.Paste))
   (pad 29 smd rect (at 0.675 0.675 90) (size 1 1) (layers F.Cu F.Paste))
   (model "${KIPRJMOD}/../HDE_PUB_LIB/3DModel/tqfn-28 exposed pad.wrl"
-    (at (xyz -0.0395 -0.0395 0))
+    (offset (xyz -1.0033 -1.0033 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 -90))
   )

@@ -50,9 +50,9 @@
     (solder_mask_margin 0.102))
   (pad 20 thru_hole circle (at 2.54 -22.86) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask F.SilkS)
     (solder_mask_margin 0.102))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/ssw-110-01-t-d.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/ssw-110-01-t-d.step
     (at (xyz 0.050394 0.3996062992125984 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )

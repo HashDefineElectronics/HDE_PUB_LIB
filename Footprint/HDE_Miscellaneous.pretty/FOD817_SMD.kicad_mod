@@ -16,9 +16,9 @@
   (pad 2 smd rect (at 2.54 0) (size 1.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 2.54 -9) (size 1.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 0 -9) (size 1.5 1.5) (layers F.Cu F.Paste F.Mask))
-  (model "${KIPRJMOD}/../HDE_PUB_LIB/3DModel/fod817, fod804 smd.wrl"
+  (model "${KIPRJMOD}/../HDE_PUB_LIB/3DModel/fod817, fod804 smd.step"
     (at (xyz -0.02 0.007 -0.041))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )
 )

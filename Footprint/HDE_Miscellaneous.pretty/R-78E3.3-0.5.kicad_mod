@@ -25,9 +25,9 @@
   (pad 1 thru_hole trapezoid (at -2.54 2.25) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 2.25) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 2.54 2.25) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/r-78e.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/r-78e.step
     (at (xyz 0.23 0.17 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
 )

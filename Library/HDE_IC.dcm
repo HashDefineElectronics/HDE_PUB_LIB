@@ -28,6 +28,11 @@ $CMP HCNW4503-300E
 D Optocoupler, Schimitt trigger
 $ENDCMP
 #
+$CMP MK64FX512VLL12
+D ARM MCU, Kinetis K Family K6x Series Microcontrollers, ARM Cortex-M4, 32bit, 120 MHz, 512 KB
+K S9KEAZ64ACLH
+$ENDCMP
+#
 $CMP LMH6601MGNOPB
 D Operational Amplifier with Shutdown 6-SC70 -40 to 85
 $ENDCMP

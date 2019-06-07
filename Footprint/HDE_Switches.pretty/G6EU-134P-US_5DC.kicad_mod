@@ -1,4 +1,4 @@
-(module G6EU-134P-US_5DC (layer F.Cu) (tedit 56B9BC39)
+(module G6EU-134P-US_5DC (layer F.Cu) (tedit 5CFA7985)
   (fp_text reference REF** (at -5.842 6.096) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

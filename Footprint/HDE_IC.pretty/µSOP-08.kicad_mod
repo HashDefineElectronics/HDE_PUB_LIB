@@ -1,4 +1,4 @@
-(module µSOP-08 (layer F.Cu) (tedit 5661884D)
+(module µSOP-08 (layer F.Cu) (tedit 5CFA78B5)
   (descr "µSOP-08, 0.65mm")
   (fp_text reference REF** (at 2.7305 3.2385) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))
@@ -27,9 +27,9 @@
     (solder_mask_margin 0.1))
   (pad 5 smd rect (at 4.3 1.95) (size 1.35 0.4) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.1))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/µsop-08.wrl
-    (at (xyz 0.15 -0.1 0.004))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz -90 0 90))
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/µsop-08.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
   )
 )

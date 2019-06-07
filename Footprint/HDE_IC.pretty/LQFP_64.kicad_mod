@@ -1,4 +1,4 @@
-(module LQFP_64 (layer F.Cu) (tedit 56675367)
+(module LQFP_64 (layer F.Cu) (tedit 5CFA7623)
   (descr "LQFP64, Pitch: 0.5mm, 64pin")
   (fp_text reference U8 (at 5.648 -4.766 90) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))
@@ -142,9 +142,9 @@
     (solder_mask_margin 0.05))
   (pad 64 smd rect (at -3.75 -6) (size 0.2 1.5) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.05))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/AB2_LQFP64.wrl
-    (at (xyz 0 0 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
-    (rotate (xyz 0 0 270))
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/tqfp64.step
+    (offset (xyz 0 0 0.7))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )

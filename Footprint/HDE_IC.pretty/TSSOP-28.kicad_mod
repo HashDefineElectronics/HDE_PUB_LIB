@@ -1,4 +1,4 @@
-(module TSSOP-28 (layer F.Cu) (tedit 56675406)
+(module TSSOP-28 (layer F.Cu) (tedit 5CFA782D)
   (descr "TSSOP 28way 0.65mm")
   (fp_text reference U12 (at 5.225 2.37 180) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))
@@ -68,8 +68,8 @@
     (solder_mask_margin 0.05))
   (pad 28 smd rect (at -4.225 -2.97) (size 0.42 1.78) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.05))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/TSSOP-28_4.4x9.7mm_Pitch0.65mm.wrl
-    (at (xyz 0 0 -0.001))
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/Kicad_Official/TSSOP-28_4.4x9.7mm_P0.65mm.step
+    (offset (xyz 0 0 -0.02539999961853028))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
   )

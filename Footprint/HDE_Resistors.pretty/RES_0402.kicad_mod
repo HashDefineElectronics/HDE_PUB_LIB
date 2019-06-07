@@ -1,6 +1,6 @@
-(module RES_0402 (layer F.Cu) (tedit 566EF153)
+(module RES_0402 (layer F.Cu) (tedit 5CFA791B)
   (descr "Resistor, 0402 (Metric 1005)")
-  (fp_text reference R40 (at -1.2 0 180) (layer F.SilkS)
+  (fp_text reference REF** (at -0.01016 -0.78486 180) (layer F.SilkS)
     (effects (font (size 0.4 0.4) (thickness 0.1)))
   )
   (fp_text value MCWR04X1002FTL (at 1.27 1.27) (layer F.Fab)
@@ -11,9 +11,9 @@
     (solder_mask_margin 0.102))
   (pad 2 smd rect (at 0.5 0) (size 0.72 0.72) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.102))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/res_0402.wrl
-    (at (xyz -0.02122 -0.01122 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/res_0402.step
+    (offset (xyz -0.5389879919052124 -0.2849879957199097 0))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
 )

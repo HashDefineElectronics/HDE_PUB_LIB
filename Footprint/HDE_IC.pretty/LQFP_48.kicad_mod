@@ -61,9 +61,9 @@
   (pad 46 smd rect (at -1.75 -4.425) (size 0.28 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at -2.25 -4.425) (size 0.28 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at -2.75 -4.425) (size 0.28 1.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/tqfp48.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/tqfp48.step
     (at (xyz 0.138 -0.138 -0.0035))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

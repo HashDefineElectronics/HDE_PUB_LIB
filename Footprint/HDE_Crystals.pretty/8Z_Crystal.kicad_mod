@@ -19,9 +19,9 @@
     (solder_mask_margin 0.102))
   (pad 4 smd rect (at 0 1.55) (size 1 0.9) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.102))
-  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/8z_crystal.wrl
+  (model ${KIPRJMOD}/../HDE_PUB_LIB/3DModel/8z_crystal.step
     (at (xyz 0.084646 -0.070866 0))
-    (scale (xyz 0.393701 0.393701 0.393701))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
